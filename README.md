@@ -1,7 +1,7 @@
 # Hi there, I'm Narasimha Manam 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimhamanam/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Narasimhamanam/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/narasimha-manam-032a9634b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://narasimha-manam-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narasimhamanam)
 
 I am a **Software Engineer & Machine Learning Developer** focused on building reliable distributed web platforms, explainable AI diagnostics, and high-throughput real-time systems.
@@ -76,6 +76,6 @@ I am a **Software Engineer & Machine Learning Developer** focused on building re
 
 ## 📬 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/narasimhamanam](https://www.linkedin.com/in/narasimhamanam/)
+- **LinkedIn:** [linkedin.com/in/narasimhamanam](https://www.linkedin.com/in/narasimha-manam-032a9634b/)
 - **Email:** [narasimhamanam6014@gmail.com](mailto:narasimhamanam6014@gmail.com)
 - **Portfolio:** [Visit my portfolio](https://narasimha-manam-portfolio.vercel.app)
