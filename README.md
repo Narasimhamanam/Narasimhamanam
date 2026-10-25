@@ -19,15 +19,6 @@ I am a **Software Engineer & Machine Learning Developer** focused on building re
 
 ---
 
-### 🚛 [TransitOps – Fleet Lifecycle & Dispatch Platform](https://github.com/Narasimhamanam/transitops-smart-transport)
-> *Hackathon-winning operations engine automating enterprise dispatch and vehicle maintenance (Odoo Hackathon 2026).*
-- Architected full-stack enterprise dispatch system enforcing 13 strict business rule state machines (preventing retired dispatches, cargo overweights, and expired operator credentials).
-- Designed relational data models with **Prisma ORM** on **PostgreSQL**, managing vehicles, trips, maintenance logs, and fuel tracking.
-- Implemented granular Role-Based Access Control (Dispatcher, Manager, Operator) with dynamic analytics dashboards.
-- **Tech Stack:** Node.js, Express, React, Vite, Prisma ORM, PostgreSQL, Tailwind CSS.
-
----
-
 ### 🤖 [Simha AI – Multi-Agent AI Orchestration Platform](https://github.com/Narasimhamanam/simha-ai)
 > *Autonomous multi-agent SaaS platform featuring dynamic model routing and vector search.*
 - Designed a model routing engine selecting optimal LLMs (Groq, OpenAI, Gemini) based on task intent and latency constraints.
@@ -86,5 +77,5 @@ I am a **Software Engineer & Machine Learning Developer** focused on building re
 ## 📬 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/narasimhamanam](https://www.linkedin.com/in/narasimhamanam/)
-- **Email:** [narasimhamanam@gmail.com](mailto:narasimhamanam@gmail.com)
-- **Portfolio:** [github.com/Narasimhamanam/portfolio](https://github.com/Narasimhamanam/portfolio)
+- **Email:** [narasimhamanam6014@gmail.com](mailto:narasimhamanam6014@gmail.com)
+- **Portfolio:** [Visit my portfolio](https://narasimha-manam-portfolio.vercel.app)
